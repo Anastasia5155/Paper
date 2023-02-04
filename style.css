@@ -1,0 +1,895 @@
+.p {
+  height: 25.66px;
+  width: 20.02px;
+  position: absolute;
+  left: 663px;
+  right: 754.98px;
+  top: 11px;
+  bottom: 6390.34px;
+}
+.a {
+  height: 20.33px;
+  width: 19.78px;
+  position: absolute;
+  left: 685.38px;
+  right: 734.84px;
+  top: 16.89px;
+  bottom: 6389.78px;
+}
+.pp {
+  height: 27.13px;
+  width: 21.25px;
+  position: absolute;
+  left: 704.23px;
+  right: 714.52px;
+  top: 16.87px;
+  bottom: 6383px;
+}
+.e {
+  height: 20.35px;
+  width: 17.17px;
+  position: absolute;
+  left: 727.13px;
+  right: 695.7px;
+  top: 16.87px;
+  bottom: 6389.78px;
+}
+.r {
+  height: 19.81px;
+  width: 16.01px;
+  position: absolute;
+  left: 744.68px;
+  right: 679.31px;
+  top: 16.87px;
+  bottom: 6390.32px;
+}
+.rr {
+  height: 9.5px;
+  width: 9.13px;
+  position: absolute;
+  left: 762.33px;
+  right: 668.54px;
+  top: 11px;
+  bottom: 6406.5px;
+}
+.b {
+  height: 14px;
+  width: 9.44px;
+  position: absolute;
+  left: 656px;
+  right: 774.56px;
+  top: 49.59px;
+  bottom: 6363.41px;
+}
+.y {
+  height: 13.63px;
+  width: 10.01px;
+  position: absolute;
+  left: 665.86px;
+  right: 764.13px;
+  top: 53.37px;
+  bottom: 6360px;
+}
+.w {
+  height: 13.69px;
+  width: 17.84px;
+  position: absolute;
+  left: 680.43px;
+  right: 741.73px;
+  top: 49.59px;
+  bottom: 6363.72px;
+}
+.ee {
+  height: 10.53px;
+  width: 9.28px;
+  position: absolute;
+  left: 698.37px;
+  right: 732.35px;
+  top: 53.06px;
+  bottom: 6363.41px;
+}
+.t {
+  height: 13.69px;
+  width: 11.11px;
+  position: absolute;
+  left: 706.16px;
+  right: 722.73px;
+  top: 49.59px;
+  bottom: 6363.72px;
+}
+.rrr {
+  height: 10.09px;
+  width: 5.57px;
+  position: absolute;
+  left: 716.02px;
+  right: 718.4px;
+  top: 53.2px;
+  bottom: 6363.72px;
+}
+.aa {
+  height: 10.53px;
+  width: 9.4px;
+  position: absolute;
+  left: 722.22px;
+  right: 708.38px;
+  top: 53.06px;
+  bottom: 6363.41px;
+}
+.n {
+  height: 10.22px;
+  width: 8.65px;
+  position: absolute;
+  left: 733.88px;
+  right: 697.47px;
+  top: 53.06px;
+  bottom: 6363.72px;
+}
+.s {
+  height: 10.53px;
+  width: 8.63px;
+  position: absolute;
+  left: 744.16px;
+  right: 687.21px;
+  top: 53.06px;
+  bottom: 6363.41px;
+}
+.f {
+  height: 13.84px;
+  width: 6.41px;
+  position: absolute;
+  left: 753.69px;
+  right: 679.9px;
+  top: 49.44px;
+  bottom: 6363.72px;
+}
+.eee {
+  height: 10.53px;
+  width: 9.28px;
+  position: absolute;
+  left: 760.28px;
+  right: 670.43px;
+  top: 53.06px;
+  bottom: 6363.41px;
+}
+.rrrr {
+  height: 10.09px;
+  width: 5.57px;
+  position: absolute;
+  left: 771.43px;
+  right: 663px;
+  top: 53.2px;
+  bottom: 6363.72px;
+}
+.one {
+  height: 20.68px;
+  width: 25.06px;
+  position: absolute;
+  left: 14px;
+  right: 1396.94px;
+  top: 16px;
+  bottom: 6390.32px;
+}
+.two {
+  height: 20.84px;
+  width: 19.29px;
+  position: absolute;
+  left: 44.3px;
+  right: 1376.41px;
+  top: 16.16px;
+  bottom: 6390px;
+}
+.button1 {
+  width: 33px;
+  height: 15px;
+  position: absolute;
+  left: 1174px;
+  right: 233px;
+  top: 17px;
+  bottom: 6395px;
+  background-color: rgba(28, 28, 28, 0);
+  font-family: "Roboto";
+  color: #5c5c5c;
+  border: none;
+  -webkit-animation-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+.button1:hover {
+  color: white;
+  border-radius: 100px;
+  background-color: black;
+  width: 50px;
+  height: 30px;
+}
+.button2 {
+  width: 54px;
+  height: 15px;
+  position: absolute;
+  left: 1229px;
+  right: 157px;
+  top: 17px;
+  bottom: 6395px;
+  background-color: rgba(28, 28, 28, 0);
+  font-family: "Roboto";
+  color: #5c5c5c;
+  border: none;
+  -webkit-animation-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+.button2:hover {
+  color: white;
+  transition: 0.4s;
+  border-radius: 100px;
+  background-color: black;
+  width: 71px;
+  height: 30px;
+}
+.button3 {
+  width: 71px;
+  height: 15px;
+  position: absolute;
+  left: 1327px;
+  right: 42px;
+  top: 17px;
+  bottom: 6395px;
+  background-color: rgba(28, 28, 28, 0);
+  font-family: "Roboto";
+  color: #5c5c5c;
+  border: none;
+  -webkit-animation-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+.button3:hover {
+  color: white;
+  transition: 0.4s;
+  border-radius: 100px;
+  background-color: black;
+  width: 119px;
+  height: 39px;
+}
+
+.page1 {
+  font-family: "Robot";
+  width: 366px;
+  height: 80px;
+  font-size: 80px;
+  color: black;
+  position: absolute;
+  left: 80px;
+  right: 994px;
+  top: 342px;
+  bottom: 6005px;
+}
+
+.page11 {
+  font-family: "Robot";
+  width: 329px;
+  height: 160px;
+  font-size: 76px;
+  color: black;
+  position: absolute;
+  left: 80px;
+  right: 1031px;
+  top: 422px;
+  bottom: 5845px;
+  letter-spacing: 1px;
+  line-height: 64px;
+}
+
+.photo {
+  height: 679px;
+  width: 905px;
+  left: 648px;
+  top: 230px;
+  bottom: 5518px;
+  border: 30px solid black;
+  border-radius: 28px;
+}
+
+.page12 {
+  font-family: "Robot";
+  width: 374px;
+  height: 84px;
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  left: 80px;
+  right: 986px;
+  top: 622px;
+  bottom: 5721px;
+}
+body {
+  max-width: 1440px;
+}
+
+.book {
+  height: 739px;
+  width: 832px;
+  position: absolute;
+  left: 648px;
+  top: 230px;
+  bottom: 5490px;
+  right: 0px;
+  overflow: hidden;
+}
+
+.button5 {
+  width: 127px;
+  height: 48px;
+  position: absolute;
+  left: 80px;
+  right: 1233px;
+  top: 741px;
+  bottom: 5638px;
+  background-color: white;
+  font-family: "Roboto";
+  color: black;
+  border: 2px solid black;
+  border-radius: 100px;
+  font-size: 15px;
+  -webkit-animation-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+.button5:hover {
+  color: white;
+  transition: 0.4s;
+  border-radius: 100px;
+  background-color: black;
+  width: 127px;
+  height: 48px;
+}
+
+.button4 {
+  width: 110px;
+  height: 48px;
+  position: absolute;
+  left: 217px;
+  right: 1113px;
+  top: 741px;
+  bottom: 5638px;
+  background-color: white;
+  font-family: "Roboto";
+  color: black;
+  border: 2px solid black;
+  border-radius: 100px;
+  font-size: 15px;
+  -webkit-animation-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+.button4:hover {
+  color: white;
+  transition: 0.4s;
+  border-radius: 100px;
+  background-color: black;
+  width: 110px;
+  height: 48px;
+}
+
+.page21 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 1139px;
+  bottom: 4478px;
+}
+
+.page22 {
+  font-family: "Robot";
+  width: 264px;
+  height: 108px;
+  font-size: 50px;
+  color: white;
+  position: absolute;
+  left: 80px;
+  right: 1096px;
+  top: 1395px;
+  bottom: 4924px;
+}
+.page23 {
+  font-family: "Robot";
+  width: 314px;
+  height: 140px;
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  left: 80px;
+  right: 1019px;
+  top: 1549px;
+  bottom: 4738px;
+}
+
+.page31 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 2029px;
+  bottom: 3530px;
+}
+
+.page32 {
+  width: 1200px;
+  height: 174px;
+  position: absolute;
+  left: 120px;
+  right: 120px;
+  top: 2611px;
+  bottom: 3530px;
+}
+.page33 {
+  font-family: "Robot";
+  width: 493px;
+  height: 54px;
+  font-size: 52px;
+  color: black;
+  position: absolute;
+  left: 474px;
+  right: 473px;
+  top: 2065px;
+  bottom: 4309px;
+  font-weight: normal;
+  text-align: center;
+}
+.page34 {
+  font-family: "Robot";
+  width: 791px;
+  height: 56px;
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  left: 325px;
+  right: 324px;
+  top: 2170px;
+  bottom: 4223px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.page41 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 2897px;
+  bottom: 2626px;
+}
+
+.page43 {
+  position: absolute;
+  top: 3327px;
+  bottom: 2822px;
+  left: 133px;
+  right: 1107px;
+}
+.page44 {
+  position: absolute;
+  top: 3327px;
+  bottom: 2822px;
+  left: 373px;
+  right: 867px;
+}
+.page45 {
+  position: absolute;
+  top: 3327px;
+  bottom: 2822px;
+  left: 613px;
+  right: 627px;
+}
+.page46 {
+  position: absolute;
+  top: 3327px;
+  bottom: 2822px;
+  left: 853px;
+  right: 387px;
+}
+.page47 {
+  position: absolute;
+  top: 3327px;
+  bottom: 2822px;
+  left: 1093px;
+  right: 147px;
+}
+.page48 {
+  width: 370px;
+  height: 54px;
+  font-size: 54px;
+  font-family: "Roboto";
+  left: 535px;
+  right: 535px;
+  top: 3000px;
+  bottom: 3341px;
+  font-style: normal;
+  line-height: 54px;
+  position: absolute;
+  text-align: center;
+  color: white;
+}
+.page49 {
+  width: 801px;
+  height: 56px;
+  font-size: 20px;
+  font-family: "Roboto";
+  left: 320px;
+  right: 319px;
+  top: 3130px;
+  bottom: 3251px;
+  font-style: normal;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  color: white;
+}
+.page410 {
+  width: 130px;
+  height: 18px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 379px;
+  right: 940px;
+  top: 3274px;
+  bottom: 3135px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: white;
+}
+.page411 {
+  width: 135px;
+  height: 18px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 379px;
+  right: 936px;
+  top: 3292px;
+  bottom: 3117px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: white;
+}
+.page412 {
+  width: 179px;
+  height: 36px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 379px;
+  right: 882px;
+  top: 3590px;
+  bottom: 2777px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: rgba(255, 255, 255, 0.5);
+}
+.page413 {
+  width: 1326x;
+  height: 18px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 139px;
+  right: 1175px;
+  top: 3274px;
+  bottom: 3135px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: white;
+}
+.page414 {
+  width: 53px;
+  height: 18px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 139px;
+  right: 1248px;
+  top: 3292px;
+  bottom: 3117px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: white;
+}
+.page415 {
+  width: 141px;
+  height: 18px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 139px;
+  right: 1160px;
+  top: 3590px;
+  bottom: 2777px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: rgba(255, 255, 255, 0.5);
+}
+.page416 {
+  width: 135px;
+  height: 18px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 619px;
+  right: 686px;
+  top: 3274px;
+  bottom: 3135px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: white;
+}
+.page417 {
+  width: 73px;
+  height: 18px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 619px;
+  right: 748px;
+  top: 3292px;
+  bottom: 3117px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: white;
+}
+.page418 {
+  width: 192px;
+  height: 18px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 619px;
+  right: 629px;
+  top: 3590px;
+  bottom: 2777px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: rgba(255, 255, 255, 0.5);
+}
+.page419 {
+  width: 111px;
+  height: 18px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 859px;
+  right: 470px;
+  top: 3274px;
+  bottom: 3135px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: white;
+}
+.page420 {
+  width: 81px;
+  height: 18px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 859px;
+  right: 500px;
+  top: 3292px;
+  bottom: 3117px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: white;
+}
+.page421 {
+  width: 192px;
+  height: 36px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 859px;
+  right: 389px;
+  top: 3590px;
+  bottom: 2777px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: rgba(255, 255, 255, 0.5);
+}
+.page422 {
+  width: 132px;
+  height: 18px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 1099px;
+  right: 209px;
+  top: 3274px;
+  bottom: 3135px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: white;
+}
+.page423 {
+  width: 119px;
+  height: 18px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 1099px;
+  right: 222px;
+  top: 3292px;
+  bottom: 3117px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: white;
+}
+.page424 {
+  width: 190px;
+  height: 36px;
+  font-size: 12px;
+  font-family: "Roboto";
+  left: 1099px;
+  right: 151px;
+  top: 3590px;
+  bottom: 2777px;
+  font-style: normal;
+  line-height: 12px;
+  position: absolute;
+  color: rgba(255, 255, 255, 0.5);
+}
+.page51 {
+  width: 305px;
+  height: 108px;
+  position: absolute;
+  left: 980px;
+  right: 140px;
+  top: 3900px;
+  bottom: 2253px;
+  font-family: "Roboto";
+  font-size: 52px;
+  line-height: 54px;
+  font-style: normal;
+  color: black;
+}
+.page52 {
+  width: 376px;
+  height: 140px;
+  position: absolute;
+  left: 980px;
+  right: 84px;
+  top: 4065px;
+  bottom: 2079px;
+  font-family: "Roboto";
+  font-size: 20px;
+  line-height: 28px;
+  font-style: normal;
+  color: black;
+}
+.page53 {
+  width: 780px;
+  height: 585px;
+  position: absolute;
+  left: 38px;
+  right: 622px;
+  bottom: 1926px;
+  top: 3916px;
+  border: 30px solid black;
+  border-radius: 28px;
+}
+.page61 {
+  width: 312px;
+  height: 108px;
+  position: absolute;
+  left: 80px;
+  right: 1048px;
+  top: 4806px;
+  bottom: 1513px;
+  font-family: "Roboto";
+  font-size: 52px;
+  line-height: 54px;
+  font-style: normal;
+  color: black;
+}
+.page62 {
+  width: 369px;
+  height: 140px;
+  position: absolute;
+  left: 80px;
+  right: 991px;
+  top: 4969px;
+  bottom: 1339px;
+  font-family: "Roboto";
+  font-size: 20px;
+  line-height: 28px;
+  font-style: normal;
+  color: black;
+}
+.page63 {
+  width: 780px;
+  height: 585px;
+  position: absolute;
+  left: 622px;
+  right: 38px;
+  bottom: 1185px;
+  top: 4657px;
+  border: 30px solid black;
+  border-radius: 28px;
+}
+.page64 {
+  width: 160px;
+  height: 347px;
+  position: absolute;
+  left: 748px;
+  right: 532px;
+  bottom: 1105px;
+  top: 4975px;
+  border: 10px solid black;
+  border-radius: 24px;
+}
+.page65 {
+  width: 136px;
+  height: 136px;
+  position: absolute;
+  left: 652px;
+  right: 652px;
+  bottom: 819px;
+  top: 5472px;
+  filter: drop-shadow(0px 6px 24px rgba(0, 0, 0, 0.15));
+  border-radius: 24px;
+}
+.page66 {
+  width: 223px;
+  height: 20px;
+  position: absolute;
+  left: 630px;
+  right: 603px;
+  top: 5594px;
+  bottom: 773px;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 20px;
+  font-style: normal;
+  color: black;
+  font-weight: 400;
+}
+.button68 {
+  width: 127px;
+  height: 25px;
+  position: absolute;
+  left: 657px;
+  right: 656px;
+  top: 5653px;
+  bottom: 719px;
+  background-color: white;
+  font-family: "Roboto";
+  color: black;
+  border: 2px solid black;
+  border-radius: 100px;
+  font-size: 15px;
+  -webkit-animation-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+.button68:hover {
+  color: white;
+  transition: 0.4s;
+  border-radius: 100px;
+  background-color: black;
+  width: 127px;
+  height: 25px;
+}
+
+.page72 {
+  height: 81px;
+  width: 100%;
+  position: absolute;
+  top: 5923px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+.page73 {
+  width: 120px;
+  height: 19px;
+  font-family: "Roboto";
+  font-size: 13px;
+  color: white;
+  position: absolute;
+  left: 155px;
+  right: 1135px;
+  bottom: 50px;
+}
